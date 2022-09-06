@@ -57,4 +57,8 @@ $ cat Conectados.txt
 
 Ya puedes seguir hackeando como un pro
 
+# **METR1CKA**
 
+> [Visitanos en DevBlogs](https://metr1cka.github.io "Pagina web")
+
+> [Mas repositorios](https://github.com/METR1CKA?tab=repositories "Mi perfil")
