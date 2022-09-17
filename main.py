@@ -2,7 +2,7 @@ from app.detections import detections
 import sys, time
 
 try:
-    
+
     try:
         gateway = input('\n[+] Ingrese su rango de red: ')
 
@@ -17,7 +17,9 @@ try:
         print('\n[+] Conectados:\n')
 
         for i in ips:
+
             print(f'[*] {i}')
+
             open('Conectados.txt', 'at').write(f'{i}\n')
 
         print('\n[+] Elementos guardados con exito!')
