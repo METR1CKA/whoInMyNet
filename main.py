@@ -1,4 +1,4 @@
-from detections import detections
+from app.detections import detections
 import sys, time
 
 try:
